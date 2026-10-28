@@ -1,4 +1,4 @@
-Forked from https://github.com/jopeek/fvtt-token-info-icons. Will likely close this up if the original author updates the modules for Foundry dnd5 v6
+> **This is a fork** of [jopeek/fvtt-token-info-icons](https://github.com/jopeek/fvtt-token-info-icons) by Jan Ole Peek (ChalkOne). The only change is support for dnd5e 6.x, which I've offered upstream in [#52](https://github.com/jopeek/fvtt-token-info-icons/pull/52). Once that's merged and released, reinstall from the original manifest URL and I'll archive this fork. If the module's useful to you, consider [supporting the original author](https://www.buymeacoffee.com/ChalkOne).
 
 # FVTT - Token Info Icons
 
